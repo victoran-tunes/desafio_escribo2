@@ -1,16 +1,9 @@
-# desafio_escribo2
+<h1> Desafio Escribo 2</h1>
 
-A new Flutter project.
+<h2> Como rodar o projeto.</h2>
 
-## Getting Started
+<p>Após baixar o projeto, no seu terminal, tanto do VSCODE ou do Próprio sistema <br>
+Digitar "Flutter Run" após isso escolher onde quer rodar, navegador ou emulador de celular<br>
+ou no próprio celular</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Obs: Este projeto foi feito seguindo uma video-aula</p>
